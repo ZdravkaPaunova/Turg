@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Turg\Turg\bin\Debug\Turg.exe.config
+C:\Users\Admin\source\repos\Turg\Turg\bin\Debug\Turg.exe
+C:\Users\Admin\source\repos\Turg\Turg\bin\Debug\Turg.pdb
+C:\Users\Admin\source\repos\Turg\Turg\obj\Debug\Turg.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Turg\Turg\obj\Debug\Turg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Turg\Turg\obj\Debug\Turg.exe
+C:\Users\Admin\source\repos\Turg\Turg\obj\Debug\Turg.pdb
+C:\Users\Admin\source\repos\Turg\Turg\obj\Debug\Turg.exe.config
